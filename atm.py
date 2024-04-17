@@ -1,7 +1,7 @@
 while True:
     class Atm:
         def __init__(self):
-            # self.name = ''
+            
             self.pin = ''
             self.amount = 0
             self.new()
